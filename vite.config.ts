@@ -19,8 +19,8 @@ export default defineConfig({
         short_name: "Maps",
         description:
           "Find your way around Strathmore. Search buildings, check real-time room schedules, and get step-by-step navigation to your next class.",
-        theme_color: "#3F7A5C",
-        background_color: "#F5F1E8",
+        theme_color: "#0a84ff",
+        background_color: "#0b1120",
         display: "standalone",
         orientation: "any",
         categories: ["education", "navigation", "utilities"],
@@ -35,7 +35,7 @@ export default defineConfig({
           },
           {
             src: "/screenshots/desktop.png",
-            sizes: "1080x1920",
+            sizes: "1918x949",
             type: "image/png",
             form_factor: "wide",
             label: "Campus map on desktop",
