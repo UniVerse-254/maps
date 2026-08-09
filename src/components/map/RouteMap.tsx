@@ -4,7 +4,6 @@ import {
   Marker,
   Polyline,
   Polygon,
-  // CircleMarker, // Imported for future use
   Tooltip,
   Popup,
   useMap,
@@ -163,6 +162,10 @@ export default function RouteMap({
     requestLocation();
   }, [start, requestLocation]);
 
+  // ==========================================
+  // ALL HOOKS ARE NOW DECLARED AT THE TOP LEVEL
+  // (Fixes the "Rendered more hooks than during previous render" bug)
+  // ==========================================
   const routeInfo = useMemo(() => {
     if (!userLocation) return null;
     const meters = haversineMeters(userLocation, destinationCoordinates);
@@ -184,7 +187,6 @@ export default function RouteMap({
     ];
   }, [boundaryRing]);
 
-  // Extract edges from the graph so we don't draw overlapping lines twice
   const graphEdges = useMemo(() => {
     if (!routingGraph) return [];
     const drawn = new Set();
@@ -211,6 +213,18 @@ export default function RouteMap({
     return lines;
   }, []);
 
+  const routePoints: Coordinates[] = useMemo(() => {
+    if (!userLocation || !destinationCoordinates || !routingGraph) {
+      return userLocation && destinationCoordinates
+        ? [userLocation, destinationCoordinates]
+        : [];
+    }
+    return findShortestPath(userLocation, destinationCoordinates, routingGraph);
+  }, [userLocation, destinationCoordinates, routingGraph]);
+
+  // ==========================================
+  // CONDITIONAL RENDER GUARDS (Placed after hooks)
+  // ==========================================
   if (loading) {
     return (
       <section
@@ -257,15 +271,6 @@ export default function RouteMap({
       </section>
     );
   }
-
-  const routePoints: Coordinates[] = useMemo(() => {
-    if (!userLocation || !destinationCoordinates || !routingGraph) {
-      return userLocation && destinationCoordinates
-        ? [userLocation, destinationCoordinates]
-        : [];
-    }
-    return findShortestPath(userLocation, destinationCoordinates, routingGraph);
-  }, [userLocation, destinationCoordinates, routingGraph]);
 
   return (
     <section
@@ -323,37 +328,13 @@ export default function RouteMap({
             <Polyline
               positions={graphEdges}
               pathOptions={{
-                color: "#14213D", // Dark navy color for visibility
+                color: "#14213D",
                 weight: 1.5,
                 opacity: 0.3,
                 interactive: false,
               }}
             />
           )}
-
-          {/* -------------------------------------------------------------
-              DEBUG: Render Graph Nodes (Vertices)
-              Commented out for now. Uncomment to see the orange snap points.
-              ------------------------------------------------------------- */}
-          {/* {routingGraph &&
-            Object.entries(routingGraph).map(([nodeId, data]: [string, any]) => {
-              const [lon, lat] = data.coords;
-              return (
-                <CircleMarker
-                  key={nodeId}
-                  center={[lat, lon]}
-                  radius={4}
-                  pathOptions={{
-                    color: "#ffffff",
-                    weight: 1,
-                    fillColor: "#E8A33D", // Amber color
-                    fillOpacity: 0.9,
-                  }}
-                >
-                  <Tooltip>{nodeId}</Tooltip>
-                </CircleMarker>
-              );
-            })} */}
 
           <Polyline
             positions={toLatLngTuples(routePoints)}
