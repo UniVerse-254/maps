@@ -1,8 +1,16 @@
 import { useQuery } from "@tanstack/react-query";
+import type { AxiosError } from "axios";
 import { GetCurrentUser } from "./auth.service";
 
+interface CurrentUser {
+  id: string;
+  name: string;
+  email: string;
+  role: string;
+}
+
 export const useGetMeQuery = () => {
-  return useQuery({
+  return useQuery<CurrentUser, AxiosError>({
     queryKey: ["me"],
     queryFn: GetCurrentUser,
     enabled: !import.meta.env.DEV, // Disable the query in development mode
