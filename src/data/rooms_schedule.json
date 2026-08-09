@@ -1,0 +1,864 @@
+{
+  "CB LANGUAGE LAB": [
+    {
+      "day": "Wednesday",
+      "start": "10:15",
+      "end": "11:15",
+      "course_code": "MPU 3101",
+      "course_title": "Maisha 3",
+      "lecturer": "C. Garashie",
+      "group": "BSEEE YEAR 3"
+    }
+  ],
+  "CB RM 2": [
+    {
+      "day": "Monday",
+      "start": "10:15",
+      "end": "11:15",
+      "course_code": "CHE 1101",
+      "course_title": "Chemistry I",
+      "lecturer": "Dr Ruth Omole",
+      "group": "YEAR 1 GROUP A"
+    }
+  ],
+  "CB RM 4": [
+    {
+      "day": "Thursday",
+      "start": "10:15",
+      "end": "12:15",
+      "course_code": "BEE 2101",
+      "course_title": "Circuit Theory II",
+      "lecturer": "Dr Shamim Nassar",
+      "group": "YEAR 2 GROUP A"
+    }
+  ],
+  "CB RM 7": [
+    {
+      "day": "Friday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "BEE 2102",
+      "course_title": "Physical Electronics",
+      "lecturer": "Dr. Kilavi",
+      "group": "YEAR 2 GROUP B"
+    }
+  ],
+  "CB RM 8": [
+    {
+      "day": "Friday",
+      "start": "11:15",
+      "end": "12:15",
+      "course_code": "PHY 1101",
+      "course_title": "Physics I",
+      "lecturer": "Dr Pamela Kilavi",
+      "group": "YEAR 1 GROUP B"
+    },
+    {
+      "day": "Monday",
+      "start": "12:15",
+      "end": "13:15",
+      "course_code": "CSE1101",
+      "course_title": "Introduction to Computer Technology",
+      "lecturer": "K. Kibunja",
+      "group": "YEAR 1 GROUP B"
+    }
+  ],
+  "CB RM 9": [
+    {
+      "day": "Tuesday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "CHE 1101",
+      "course_title": "Chemistry I",
+      "lecturer": "Dr Ruth Omole",
+      "group": "YEAR 1 GROUP A"
+    }
+  ],
+  "CB Rm 10": [
+    {
+      "day": "Friday",
+      "start": "10:15",
+      "end": "12:15",
+      "course_code": "BEE 5102",
+      "course_title": "Embedded Systems & IoT",
+      "lecturer": "Solomon Itotia",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING"
+    },
+    {
+      "day": "Thursday",
+      "start": "10:15",
+      "end": "11:15",
+      "course_code": "MPU 4101",
+      "course_title": "Maisha 3",
+      "lecturer": "A. Ritho",
+      "group": "BSEEE YEAR 4"
+    },
+    {
+      "day": "Tuesday",
+      "start": "16:15",
+      "end": "17:15",
+      "course_code": "MPU 1101",
+      "course_title": "Maisha Program I",
+      "lecturer": "ARitho/R.Kimondo",
+      "group": "YEAR 1 GROUP A"
+    },
+    {
+      "day": "Wednesday",
+      "start": "10:15",
+      "end": "12:15",
+      "course_code": "BEE 5101",
+      "course_title": "Electrical Engineering Project I",
+      "lecturer": "Dr. Shamim Nassar",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING"
+    }
+  ],
+  "CB Rm 2": [
+    {
+      "day": "Friday",
+      "start": "12:15",
+      "end": "14:15",
+      "course_code": "CHE 1101",
+      "course_title": "Chemistry I",
+      "lecturer": "Dr Ruth Omole",
+      "group": "YEAR 1 GROUP B"
+    }
+  ],
+  "CB Rm 5": [
+    {
+      "day": "Friday",
+      "start": "10:15",
+      "end": "11:15",
+      "course_code": "MPU 4101",
+      "course_title": "Maisha 3",
+      "lecturer": "Y. Karanja",
+      "group": "BSEEE YEAR 4"
+    },
+    {
+      "day": "Wednesday",
+      "start": "13:15",
+      "end": "14:15",
+      "course_code": "MPU 3101",
+      "course_title": "Maisha Program 3",
+      "lecturer": "A. Ritho",
+      "group": "YEAR 2 GROUP B"
+    }
+  ],
+  "CB Rm B": [
+    {
+      "day": "Thursday",
+      "start": "12:15",
+      "end": "13:15",
+      "course_code": "MPU 3101",
+      "course_title": "Maisha 5",
+      "lecturer": "W. Ooro",
+      "group": "BSEEE YEAR 3"
+    }
+  ],
+  "CHEMISTRY LAB": [
+    {
+      "day": "Monday",
+      "start": "14:15",
+      "end": "16:15",
+      "course_code": "CHE 1101",
+      "course_title": "Chemistry I Practicals",
+      "lecturer": "Dr Ruth Omole",
+      "group": "YEAR 1 GROUP B"
+    },
+    {
+      "day": "Tuesday",
+      "start": "11:15",
+      "end": "13:15",
+      "course_code": "BEE 2101",
+      "course_title": "Circuit Theory II Practicals",
+      "lecturer": "Dr Shamim Nassar",
+      "group": "YEAR 2 GROUP B"
+    },
+    {
+      "day": "Wednesday",
+      "start": "12:15",
+      "end": "14:15",
+      "course_code": "BEE 2104",
+      "course_title": "Engineering Drawing and Computer Aided Design",
+      "lecturer": "Simon Kongani",
+      "group": "YEAR 2 GROUP A"
+    }
+  ],
+  "Chela Lab": [
+    {
+      "day": "Wednesday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "BEE 5103",
+      "course_title": "Engineering Project Management",
+      "lecturer": "Dr. Vitalis Ozianyi",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING"
+    }
+  ],
+  "ELECTRONICS & MACHINES LAB": [
+    {
+      "day": "Thursday",
+      "start": "13:15",
+      "end": "15:15",
+      "course_code": "BEE 2102",
+      "course_title": "Physical Electronics Practicals",
+      "lecturer": "Dr. Pamela Kilavi",
+      "group": "YEAR 2 GROUP A"
+    },
+    {
+      "day": "Thursday",
+      "start": "16:15",
+      "end": "18:15",
+      "course_code": "MEC 3105",
+      "course_title": "Thermodynamics Practicals",
+      "lecturer": "Prof. Alex Muumbo",
+      "group": "BSEEE YEAR 3"
+    }
+  ],
+  "Electronics & Machines Lab": [
+    {
+      "day": "Wednesday",
+      "start": "14:15",
+      "end": "16:15",
+      "course_code": "CHE 1101",
+      "course_title": "Chemistry I Practicals",
+      "lecturer": "Dr Ruth Omole",
+      "group": "YEAR 1 GROUP A"
+    }
+  ],
+  "FG F1-03": [
+    {
+      "day": "Friday",
+      "start": "12:15",
+      "end": "14:15",
+      "course_code": "BEE 4107",
+      "course_title": "Electrical Machines & Drives I",
+      "lecturer": "Paul Musyoka",
+      "group": "BSEEE YEAR 4"
+    },
+    {
+      "day": "Thursday",
+      "start": "12:15",
+      "end": "14:15",
+      "course_code": "BEE 4102",
+      "course_title": "Control Systems II",
+      "lecturer": "Prof. Jackson Mbuthia",
+      "group": "BSEEE YEAR 4"
+    }
+  ],
+  "FG F1-04": [
+    {
+      "day": "Friday",
+      "start": "10:15",
+      "end": "12:15",
+      "course_code": "MAT 1101",
+      "course_title": "Mathematics I",
+      "lecturer": "John Osumba",
+      "group": "YEAR 1 GROUP A"
+    },
+    {
+      "day": "Thursday",
+      "start": "10:15",
+      "end": "12:15",
+      "course_code": "CSE 2112",
+      "course_title": "Object Oriented Programming",
+      "lecturer": "Nicholas Njiru",
+      "group": "YEAR 2 GROUP B"
+    },
+    {
+      "day": "Thursday",
+      "start": "15:15",
+      "end": "17:15",
+      "course_code": "BEE 2104",
+      "course_title": "Engineering Drawing and Computer Aided Design",
+      "lecturer": "Simon Kongani",
+      "group": "YEAR 2 GROUP A"
+    },
+    {
+      "day": "Tuesday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "EMT 2101",
+      "course_title": "Engineering Mathematics I",
+      "lecturer": "John Osumba",
+      "group": "YEAR 2 GROUP A"
+    },
+    {
+      "day": "Tuesday",
+      "start": "10:15",
+      "end": "12:15",
+      "course_code": "MAT 1102",
+      "course_title": "Applied Mathematics I",
+      "lecturer": "Dr Titus Orwa",
+      "group": "YEAR 1 GROUP B"
+    },
+    {
+      "day": "Tuesday",
+      "start": "14:15",
+      "end": "16:15",
+      "course_code": "EMT 2101",
+      "course_title": "Engineering Mathematics I",
+      "lecturer": "John Osumba",
+      "group": "YEAR 2 GROUP B"
+    }
+  ],
+  "FG GF-03": [
+    {
+      "day": "Friday",
+      "start": "10:15",
+      "end": "12:15",
+      "course_code": "BEE 3102",
+      "course_title": "Digital Electronics II",
+      "lecturer": "Dr Victor Rop",
+      "group": "BSEEE YEAR 3"
+    },
+    {
+      "day": "Friday",
+      "start": "12:15",
+      "end": "14:15",
+      "course_code": "EMT 3101",
+      "course_title": "Engineering Mathematics III",
+      "lecturer": "Dr Titus Orwa",
+      "group": "BSEEE YEAR 3"
+    },
+    {
+      "day": "Thursday",
+      "start": "11:15",
+      "end": "12:15",
+      "course_code": "HED 1102",
+      "course_title": "Communication Skills I",
+      "lecturer": "Fred Waga",
+      "group": "YEAR 1 GROUP A"
+    },
+    {
+      "day": "Thursday",
+      "start": "11:15",
+      "end": "12:15",
+      "course_code": "HED 1102",
+      "course_title": "Communication Skills I",
+      "lecturer": "Fred Waga",
+      "group": "YEAR 1 GROUP B"
+    },
+    {
+      "day": "Tuesday",
+      "start": "13:15",
+      "end": "15:15",
+      "course_code": "BEE 4104",
+      "course_title": "Technology Ethics & Human Rights",
+      "lecturer": "Dr Julius Butime",
+      "group": "BSEEE YEAR 4"
+    }
+  ],
+  "FG GF-04": [
+    {
+      "day": "Friday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "HED 1102",
+      "course_title": "Communication Skills I",
+      "lecturer": "Fred Waga",
+      "group": "YEAR 1 GROUP A"
+    },
+    {
+      "day": "Friday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "HED 1102",
+      "course_title": "Communication Skills I",
+      "lecturer": "Fred Waga",
+      "group": "YEAR 1 GROUP B"
+    },
+    {
+      "day": "Thursday",
+      "start": "13:15",
+      "end": "15:15",
+      "course_code": "CSE1101",
+      "course_title": "Introduction to Computer Technology",
+      "lecturer": "Kelvin Kibunja",
+      "group": "YEAR 1 GROUP B"
+    },
+    {
+      "day": "Tuesday",
+      "start": "12:15",
+      "end": "14:15",
+      "course_code": "CSE1101",
+      "course_title": "Introduction to Computer Technology",
+      "lecturer": "Kelvin Kibunja",
+      "group": "YEAR 1 GROUP A"
+    },
+    {
+      "day": "Wednesday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "HED 1101",
+      "course_title": "Philosophical Anthropology",
+      "lecturer": "Patrick Micheni",
+      "group": "YEAR 1 GROUP A"
+    },
+    {
+      "day": "Wednesday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "HED 1101",
+      "course_title": "Philosophical Anthropology",
+      "lecturer": "Patrick Micheni",
+      "group": "YEAR 1 GROUP B"
+    },
+    {
+      "day": "Wednesday",
+      "start": "10:15",
+      "end": "12:15",
+      "course_code": "MAT 1102",
+      "course_title": "Applied Mathematics I",
+      "lecturer": "Dr Titus Orwa",
+      "group": "YEAR 1 GROUP B"
+    }
+  ],
+  "ILAB KIFARU": [
+    {
+      "day": "Tuesday",
+      "start": "14:15",
+      "end": "16:15",
+      "course_code": "BEE 2102",
+      "course_title": "Physical Electronics",
+      "lecturer": "Dr Pamela Kilavi",
+      "group": "YEAR 2 GROUP A"
+    }
+  ],
+  "LIB Lib 1": [
+    {
+      "day": "Thursday",
+      "start": "16:15",
+      "end": "17:15",
+      "course_code": "HED 1101",
+      "course_title": "Philosophical Anthropology",
+      "lecturer": "P. Micheni",
+      "group": "YEAR 1 GROUP A"
+    },
+    {
+      "day": "Thursday",
+      "start": "16:15",
+      "end": "17:15",
+      "course_code": "HED 1101",
+      "course_title": "Philosophical Anthropology",
+      "lecturer": "P. Micheni",
+      "group": "YEAR 1 GROUP B"
+    }
+  ],
+  "MSB 5": [
+    {
+      "day": "Friday",
+      "start": "13:15",
+      "end": "14:15",
+      "course_code": "PHY 1101",
+      "course_title": "Physics I",
+      "lecturer": "Dr Pamela Kilavi",
+      "group": "YEAR 1 GROUP A"
+    },
+    {
+      "day": "Wednesday",
+      "start": "12:15",
+      "end": "14:15",
+      "course_code": "MEC 3104",
+      "course_title": "Fluid Theory",
+      "lecturer": "Prof. Damaris Mbui",
+      "group": "BSEEE YEAR 3"
+    }
+  ],
+  "PHYSICS LAB": [
+    {
+      "day": "Thursday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "PHY 1101",
+      "course_title": "Physics I Practicals",
+      "lecturer": "Dr Pamela Kilavi",
+      "group": "YEAR 1 GROUP A"
+    },
+    {
+      "day": "Thursday",
+      "start": "13:15",
+      "end": "15:15",
+      "course_code": "BEE 2103",
+      "course_title": "Engineering Drawing and Computer Aided Design",
+      "lecturer": "Simon Kongani",
+      "group": "YEAR 2 GROUP B"
+    },
+    {
+      "day": "Tuesday",
+      "start": "09:15",
+      "end": "11:15",
+      "course_code": "BEE 2102",
+      "course_title": "Physical Electronics Practicals",
+      "lecturer": "Dr. Pamela Kilavi",
+      "group": "YEAR 2 GROUP B"
+    },
+    {
+      "day": "Wednesday",
+      "start": "15:15",
+      "end": "17:15",
+      "course_code": "PHY 1101",
+      "course_title": "Physics I Practicals",
+      "lecturer": "Dr Pamela Kilavi",
+      "group": "YEAR 1 GROUP B"
+    }
+  ],
+  "SERC FORGE 1": [
+    {
+      "day": "Friday",
+      "start": "10:15",
+      "end": "12:15",
+      "course_code": "BEE 2101",
+      "course_title": "Circuit Theory II Practicals",
+      "lecturer": "Dr Shamim Nassar",
+      "group": "YEAR 2 GROUP A"
+    },
+    {
+      "day": "Thursday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "BEE 4107",
+      "course_title": "Electrical Machines & Drives I Practicals",
+      "lecturer": "Paul Musyoka",
+      "group": "BSEEE YEAR 4"
+    },
+    {
+      "day": "Tuesday",
+      "start": "10:15",
+      "end": "12:15",
+      "course_code": "BEE 4105",
+      "course_title": "Communication Systems I Practicals",
+      "lecturer": "Dr Kennedy Ronoh",
+      "group": "BSEEE YEAR 4"
+    },
+    {
+      "day": "Tuesday",
+      "start": "15:15",
+      "end": "17:15",
+      "course_code": "BEE 3101",
+      "course_title": "Electromagnetic Fields Practicals",
+      "lecturer": "Dr Joseph Obadha",
+      "group": "BSEEE YEAR 3"
+    },
+    {
+      "day": "Wednesday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "BEE 3106",
+      "course_title": "Analogue Electronics I Practicals",
+      "lecturer": "Dr Malack Oteri",
+      "group": "BSEEE YEAR 3"
+    },
+    {
+      "day": "Wednesday",
+      "start": "12:15",
+      "end": "14:15",
+      "course_code": "BEE 4101",
+      "course_title": "Power Electronics Practicals",
+      "lecturer": "Dr Victor Rop",
+      "group": "BSEEE YEAR 4"
+    }
+  ],
+  "SERC FORGE 2": [
+    {
+      "day": "Thursday",
+      "start": "13:15",
+      "end": "15:15",
+      "course_code": "BEE 3102",
+      "course_title": "Digital Electronics II",
+      "lecturer": "Dr Victor Rop",
+      "group": "BSEEE YEAR 3"
+    },
+    {
+      "day": "Thursday",
+      "start": "15:15",
+      "end": "17:15",
+      "course_code": "BEE 2101",
+      "course_title": "Circuit Theory II",
+      "lecturer": "Dr Shamim Nassar",
+      "group": "YEAR 2 GROUP B"
+    },
+    {
+      "day": "Tuesday",
+      "start": "10:15",
+      "end": "12:15",
+      "course_code": "MEC 3104",
+      "course_title": "Fluid Theory Practicals",
+      "lecturer": "Prof. Damaris Mbui",
+      "group": "BSEEE YEAR 3"
+    },
+    {
+      "day": "Tuesday",
+      "start": "15:15",
+      "end": "17:15",
+      "course_code": "BEE 4102",
+      "course_title": "Control Systems II Practicals",
+      "lecturer": "Prof. Jackson Mbuthia",
+      "group": "BSEEE YEAR 4"
+    },
+    {
+      "day": "Wednesday",
+      "start": "15:15",
+      "end": "17:15",
+      "course_code": "BEE 4103",
+      "course_title": "Power System Engineering I Practicals",
+      "lecturer": "Hamprey Odero",
+      "group": "BSEEE YEAR 4"
+    }
+  ],
+  "STC SEM RM": [
+    {
+      "day": "Tuesday",
+      "start": "16:15",
+      "end": "17:15",
+      "course_code": "MPU 2101",
+      "course_title": "Maisha Program 3",
+      "lecturer": "M. Ntoyai",
+      "group": "YEAR 2 GROUP A"
+    },
+    {
+      "day": "Tuesday",
+      "start": "16:15",
+      "end": "17:15",
+      "course_code": "MPU 2101",
+      "course_title": "Maisha Program 3",
+      "lecturer": "M. Ntoyai",
+      "group": "YEAR 2 GROUP B"
+    },
+    {
+      "day": "Wednesday",
+      "start": "14:15",
+      "end": "15:15",
+      "course_code": "MPU 1101",
+      "course_title": "Maisha Program I",
+      "lecturer": "A. Ritho",
+      "group": "YEAR 1 GROUP B"
+    }
+  ],
+  "STMB B-01": [
+    {
+      "day": "Friday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "BEE 4103",
+      "course_title": "Power System Engineering I",
+      "lecturer": "Hamprey Odero",
+      "group": "BSEEE YEAR 4"
+    },
+    {
+      "day": "Monday",
+      "start": "12:15",
+      "end": "14:15",
+      "course_code": "PHY 1101",
+      "course_title": "Physics I",
+      "lecturer": "Dr Pamela Kilavi",
+      "group": "YEAR 1 GROUP A"
+    },
+    {
+      "day": "Thursday",
+      "start": "12:15",
+      "end": "14:15",
+      "course_code": "MAT 1102",
+      "course_title": "Applied Mathematics I",
+      "lecturer": "Dr Titus Orwa",
+      "group": "YEAR 1 GROUP A"
+    },
+    {
+      "day": "Tuesday",
+      "start": "12:15",
+      "end": "14:15",
+      "course_code": "MAT 1101",
+      "course_title": "Mathematics I",
+      "lecturer": "John Osumba",
+      "group": "YEAR 1 GROUP B"
+    },
+    {
+      "day": "Wednesday",
+      "start": "12:15",
+      "end": "14:15",
+      "course_code": "MAT 1102",
+      "course_title": "Applied Mathematics I",
+      "lecturer": "Dr Titus Orwa",
+      "group": "YEAR 1 GROUP A"
+    }
+  ],
+  "STMB B-02": [
+    {
+      "day": "Monday",
+      "start": "15:15",
+      "end": "17:15",
+      "course_code": "MAT 1101",
+      "course_title": "Mathematics I",
+      "lecturer": "John Osumba",
+      "group": "YEAR 1 GROUP A"
+    }
+  ],
+  "STMB B-03": [
+    {
+      "day": "Monday",
+      "start": "12:15",
+      "end": "14:15",
+      "course_code": "BEE 3106",
+      "course_title": "Analogue Electronics I",
+      "lecturer": "Dr Malack Oteri",
+      "group": "BSEEE YEAR 3"
+    },
+    {
+      "day": "Thursday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "BEE 3101",
+      "course_title": "Electromagnetic Fields",
+      "lecturer": "Dr Joseph Obadha",
+      "group": "BSEEE YEAR 3"
+    },
+    {
+      "day": "Thursday",
+      "start": "15:15",
+      "end": "17:15",
+      "course_code": "BEE 4101",
+      "course_title": "Power Electronics",
+      "lecturer": "Dr Victor Rop",
+      "group": "BSEEE YEAR 4"
+    },
+    {
+      "day": "Wednesday",
+      "start": "15:15",
+      "end": "17:15",
+      "course_code": "BEE 2104",
+      "course_title": "Engineering Drawing and Computer Aided Design",
+      "lecturer": "Simon Kongani",
+      "group": "YEAR 2 GROUP B"
+    }
+  ],
+  "STMB F1-03": [
+    {
+      "day": "Friday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "BEE 5101",
+      "course_title": "Electrical Engineering Project I",
+      "lecturer": "Dr.Shamim Nassar",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING"
+    }
+  ],
+  "STMB F2-01": [
+    {
+      "day": "Tuesday",
+      "start": "15:15",
+      "end": "16:15",
+      "course_code": "CHE 1101",
+      "course_title": "Chemistry I",
+      "lecturer": "Dr Ruth Omole",
+      "group": "YEAR 1 GROUP B"
+    }
+  ],
+  "STMB F2-03": [
+    {
+      "day": "Monday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "PHY 1101",
+      "course_title": "Physics I",
+      "lecturer": "Dr Pamela Kilavi",
+      "group": "YEAR 1 GROUP B"
+    },
+    {
+      "day": "Tuesday",
+      "start": "16:15",
+      "end": "17:15",
+      "course_code": "MPU 1101",
+      "course_title": "Maisha Program I",
+      "lecturer": "ARitho/R.Kimondo",
+      "group": "YEAR 1 GROUP A"
+    },
+    {
+      "day": "Tuesday",
+      "start": "16:15",
+      "end": "17:15",
+      "course_code": "MPU 1101",
+      "course_title": "Maisha Program I",
+      "lecturer": "Ruby Kimondo",
+      "group": "YEAR 1 GROUP B"
+    }
+  ],
+  "STMB F5-04": [
+    {
+      "day": "Friday",
+      "start": "12:15",
+      "end": "14:15",
+      "course_code": "HED 2111",
+      "course_title": "Principle of Ethics",
+      "lecturer": "Dr John Branya",
+      "group": "YEAR 2 GROUP A"
+    },
+    {
+      "day": "Friday",
+      "start": "12:15",
+      "end": "14:15",
+      "course_code": "HED 2111",
+      "course_title": "Principles of Ethics",
+      "lecturer": "Dr John Branya",
+      "group": "YEAR 2 GROUP B"
+    },
+    {
+      "day": "Wednesday",
+      "start": "10:15",
+      "end": "12:15",
+      "course_code": "BEE 4105",
+      "course_title": "Communication Systems I",
+      "lecturer": "Dr Kennedy Ronoh",
+      "group": "BSEEE YEAR 4"
+    }
+  ],
+  "STMB F5-05": [
+    {
+      "day": "Wednesday",
+      "start": "11:15",
+      "end": "12:15",
+      "course_code": "MPU 3101",
+      "course_title": "Maisha 5",
+      "lecturer": "W. Ooro",
+      "group": "BSEEE YEAR 3"
+    }
+  ],
+  "STMB GF-01": [
+    {
+      "day": "Tuesday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "BEE 4106",
+      "course_title": "Fundamental Accounting Principles",
+      "lecturer": "Patricia Munywoki",
+      "group": "BSEEE YEAR 4"
+    }
+  ],
+  "STMB GF-02": [
+    {
+      "day": "Thursday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "MAT 1101",
+      "course_title": "Mathematics I",
+      "lecturer": "John Osumba",
+      "group": "YEAR 1 GROUP B"
+    },
+    {
+      "day": "Thursday",
+      "start": "08:15",
+      "end": "10:15",
+      "course_code": "MAT 1101",
+      "course_title": "Mathematics I",
+      "lecturer": "John Osumba",
+      "group": "YEAR 2 GROUP B"
+    },
+    {
+      "day": "Tuesday",
+      "start": "11:15",
+      "end": "13:15",
+      "course_code": "CSE 2112",
+      "course_title": "Object Oriented Programming",
+      "lecturer": "Nicholas Njiru",
+      "group": "YEAR 2 GROUP A"
+    }
+  ]
+}

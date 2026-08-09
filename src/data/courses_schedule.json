@@ -1,0 +1,1671 @@
+{
+  "BEE 2101": [
+    {
+      "title": "Circuit Theory II Practicals",
+      "lecturer": "Dr Shamim Nassar",
+      "day": "Friday",
+      "start": "10:15",
+      "end": "12:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "SERC FORGE 1"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Circuit Theory II",
+      "lecturer": "Dr. S Nassar",
+      "day": "Monday",
+      "start": "09:15",
+      "end": "10:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "383 298 169 071 92"
+    },
+    {
+      "title": "Circuit Theory II",
+      "lecturer": "Dr. S Dassar",
+      "day": "Monday",
+      "start": "09:15",
+      "end": "10:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "383 298 169 071 92"
+    },
+    {
+      "title": "Circuit Theory II",
+      "lecturer": "Dr Shamim Nassar",
+      "day": "Thursday",
+      "start": "10:15",
+      "end": "12:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "CB RM 4"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Circuit Theory II",
+      "lecturer": "Dr Shamim Nassar",
+      "day": "Thursday",
+      "start": "15:15",
+      "end": "17:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "SERC FORGE 2"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Circuit Theory II Practicals",
+      "lecturer": "Dr Shamim Nassar",
+      "day": "Tuesday",
+      "start": "11:15",
+      "end": "13:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "CHEMISTRY LAB"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "BEE 2102": [
+    {
+      "title": "Physical Electronics",
+      "lecturer": "Dr. Kilavi",
+      "day": "Friday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "CB RM 7"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Physical Electronics",
+      "lecturer": "Dr. Kilavi",
+      "day": "Monday",
+      "start": "14:15",
+      "end": "15:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "322 253 862 930 369"
+    },
+    {
+      "title": "Physical Electronics Practicals",
+      "lecturer": "Dr. Pamela Kilavi",
+      "day": "Thursday",
+      "start": "13:15",
+      "end": "15:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "ELECTRONICS & MACHINES LAB"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Physical Electronics Practicals",
+      "lecturer": "Dr. Pamela Kilavi",
+      "day": "Tuesday",
+      "start": "09:15",
+      "end": "11:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "PHYSICS LAB"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Physical Electronics",
+      "lecturer": "Dr Pamela Kilavi",
+      "day": "Tuesday",
+      "start": "14:15",
+      "end": "16:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "ILAB KIFARU"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Physical Electronics",
+      "lecturer": "Dr. Kilavi",
+      "day": "Wednesday",
+      "start": "12:15",
+      "end": "13:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "368 700 750 852 48"
+    }
+  ],
+  "BEE 2103": [
+    {
+      "title": "Engineering Drawing and Computer Aided Design",
+      "lecturer": "Simon Kongani",
+      "day": "Thursday",
+      "start": "13:15",
+      "end": "15:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "PHYSICS LAB"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "BEE 2104": [
+    {
+      "title": "Engineering Drawing and Computer Aided Design",
+      "lecturer": "Simon Kongani",
+      "day": "Thursday",
+      "start": "15:15",
+      "end": "17:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "FG F1-04"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Engineering Drawing and Computer Aided Design",
+      "lecturer": "Simon Kongani",
+      "day": "Wednesday",
+      "start": "12:15",
+      "end": "14:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "CHEMISTRY LAB"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Engineering Drawing and Computer Aided Design",
+      "lecturer": "Simon Kongani",
+      "day": "Wednesday",
+      "start": "15:15",
+      "end": "17:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "STMB B-03"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "BEE 3101": [
+    {
+      "title": "Electromagnetic Fields",
+      "lecturer": "Dr J. Obadha",
+      "day": "Monday",
+      "start": "16:15",
+      "end": "17:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "364 037 312 690 485"
+    },
+    {
+      "title": "Electromagnetic Fields",
+      "lecturer": "Dr Joseph Obadha",
+      "day": "Thursday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": false,
+      "venues": [
+        "STMB B-03"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Electromagnetic Fields Practicals",
+      "lecturer": "Dr Joseph Obadha",
+      "day": "Tuesday",
+      "start": "15:15",
+      "end": "17:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": false,
+      "venues": [
+        "SERC FORGE 1"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "BEE 3102": [
+    {
+      "title": "Digital Electronics II",
+      "lecturer": "Dr Victor Rop",
+      "day": "Friday",
+      "start": "10:15",
+      "end": "12:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": false,
+      "venues": [
+        "FG GF-03"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Digital Electronics II",
+      "lecturer": "Dr Victor Rop",
+      "day": "Thursday",
+      "start": "13:15",
+      "end": "15:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": false,
+      "venues": [
+        "SERC FORGE 2"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Digital Electronics II",
+      "lecturer": "Dr. Rop",
+      "day": "Wednesday",
+      "start": "17:15",
+      "end": "18:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "397 292 151 237 618"
+    }
+  ],
+  "BEE 3106": [
+    {
+      "title": "Analogue Electronics I",
+      "lecturer": "Dr Malack Oteri",
+      "day": "Monday",
+      "start": "12:15",
+      "end": "14:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": false,
+      "venues": [
+        "STMB B-03"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Analogue Electronics I",
+      "lecturer": "Dr M Oteri",
+      "day": "Thursday",
+      "start": "10:15",
+      "end": "11:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "311 331 036 157 9"
+    },
+    {
+      "title": "Analogue Electronics I Practicals",
+      "lecturer": "Dr Malack Oteri",
+      "day": "Wednesday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": false,
+      "venues": [
+        "SERC FORGE 1"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "BEE 4101": [
+    {
+      "title": "Power Electronics",
+      "lecturer": "Dr V. Rop",
+      "day": "Monday",
+      "start": "08:15",
+      "end": "09:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "382 041 301 470 655"
+    },
+    {
+      "title": "Power Electronics",
+      "lecturer": "Dr Victor Rop",
+      "day": "Thursday",
+      "start": "15:15",
+      "end": "17:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": false,
+      "venues": [
+        "STMB B-03"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Power Electronics Practicals",
+      "lecturer": "Dr Victor Rop",
+      "day": "Wednesday",
+      "start": "12:15",
+      "end": "14:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": false,
+      "venues": [
+        "SERC FORGE 1"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "BEE 4102": [
+    {
+      "title": "Control Systems II",
+      "lecturer": "Prof. J Mbuthia",
+      "day": "Monday",
+      "start": "10:15",
+      "end": "11:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "368 231 477 350 364"
+    },
+    {
+      "title": "Control Systems II",
+      "lecturer": "Prof. Jackson Mbuthia",
+      "day": "Thursday",
+      "start": "12:15",
+      "end": "14:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": false,
+      "venues": [
+        "FG F1-03"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Control Systems II Practicals",
+      "lecturer": "Prof. Jackson Mbuthia",
+      "day": "Tuesday",
+      "start": "15:15",
+      "end": "17:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": false,
+      "venues": [
+        "SERC FORGE 2"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "BEE 4103": [
+    {
+      "title": "Power System Engineering I",
+      "lecturer": "Hamprey Odero",
+      "day": "Friday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": false,
+      "venues": [
+        "STMB B-01"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Power System Engineering I",
+      "lecturer": "Hamprey Odero",
+      "day": "Monday",
+      "start": "12:15",
+      "end": "13:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "338 068 059 855 621"
+    },
+    {
+      "title": "Power System Engineering I Practicals",
+      "lecturer": "Hamprey Odero",
+      "day": "Wednesday",
+      "start": "15:15",
+      "end": "17:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": false,
+      "venues": [
+        "SERC FORGE 2"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "BEE 4104": [
+    {
+      "title": "Technology Ethics & Human Rights",
+      "lecturer": "Dr Julius Butime",
+      "day": "Tuesday",
+      "start": "13:15",
+      "end": "15:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": false,
+      "venues": [
+        "FG GF-03"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Technology Ethics & Human Rights",
+      "lecturer": "Dr J. Butime",
+      "day": "Wednesday",
+      "start": "08:15",
+      "end": "09:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "334 884 223 500 215"
+    }
+  ],
+  "BEE 4105": [
+    {
+      "title": "Communication Systems I",
+      "lecturer": "Dr K. Ronoh",
+      "day": "Monday",
+      "start": "13:15",
+      "end": "14:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "348 840 828 424 327"
+    },
+    {
+      "title": "Communication Systems I Practicals",
+      "lecturer": "Dr Kennedy Ronoh",
+      "day": "Tuesday",
+      "start": "10:15",
+      "end": "12:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": false,
+      "venues": [
+        "SERC FORGE 1"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Communication Systems I",
+      "lecturer": "Dr Kennedy Ronoh",
+      "day": "Wednesday",
+      "start": "10:15",
+      "end": "12:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": false,
+      "venues": [
+        "STMB F5-04"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "BEE 4106": [
+    {
+      "title": "Fundamental Accounting Principles",
+      "lecturer": "P. Munywoki",
+      "day": "Monday",
+      "start": "16:15",
+      "end": "17:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": null
+    },
+    {
+      "title": "Fundamental Accounting Principles",
+      "lecturer": "Patricia Munywoki",
+      "day": "Tuesday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": false,
+      "venues": [
+        "STMB GF-01"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "BEE 4107": [
+    {
+      "title": "Electrical Machines & Drives I",
+      "lecturer": "Paul Musyoka",
+      "day": "Friday",
+      "start": "12:15",
+      "end": "14:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": false,
+      "venues": [
+        "FG F1-03"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Electrical Machines & Drives I",
+      "lecturer": "Paul Musyoka",
+      "day": "Monday",
+      "start": "15:15",
+      "end": "16:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "359 321 677 375 682"
+    },
+    {
+      "title": "Electrical Machines & Drives I Practicals",
+      "lecturer": "Paul Musyoka",
+      "day": "Thursday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": false,
+      "venues": [
+        "SERC FORGE 1"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "BEE 5101": [
+    {
+      "title": "Electrical Engineering Project I",
+      "lecturer": "Dr.Shamim Nassar",
+      "day": "Friday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING",
+      "is_virtual": false,
+      "venues": [
+        "STMB F1-03"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Electrical Engineering Project I",
+      "lecturer": "Dr. Shamim Nassar",
+      "day": "Wednesday",
+      "start": "10:15",
+      "end": "12:15",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING",
+      "is_virtual": false,
+      "venues": [
+        "CB Rm 10"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "BEE 5102": [
+    {
+      "title": "Embedded Systems & IoT",
+      "lecturer": "Solomon Itotia",
+      "day": "Friday",
+      "start": "10:15",
+      "end": "12:15",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING",
+      "is_virtual": false,
+      "venues": [
+        "CB Rm 10"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Embedded Systems & IoT",
+      "lecturer": "S. Itotia",
+      "day": "Monday",
+      "start": "14:15",
+      "end": "15:15",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "363 377 999 916 917"
+    },
+    {
+      "title": "Embedded Systems & IoT Practicals SERC Forge 2",
+      "lecturer": "Solomon Itotia",
+      "day": "Thursday",
+      "start": "10:15",
+      "end": "12:15",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING",
+      "is_virtual": false,
+      "venues": [],
+      "meeting_id": null
+    }
+  ],
+  "BEE 5103": [
+    {
+      "title": "Engineering Project Management",
+      "lecturer": "Dr Ozianyi",
+      "day": "Monday",
+      "start": "11:15",
+      "end": "12:15",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "351 078 201 633 859"
+    },
+    {
+      "title": "Engineering Project Management",
+      "lecturer": "Dr. Vitalis Ozianyi",
+      "day": "Wednesday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING",
+      "is_virtual": false,
+      "venues": [
+        "Chela Lab"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "CHE 1101": [
+    {
+      "title": "Chemistry I",
+      "lecturer": "Dr Ruth Omole",
+      "day": "Friday",
+      "start": "12:15",
+      "end": "14:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "CB Rm 2"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Chemistry I",
+      "lecturer": "Dr Ruth Omole",
+      "day": "Monday",
+      "start": "10:15",
+      "end": "11:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "CB RM 2"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Chemistry I Practicals",
+      "lecturer": "Dr Ruth Omole",
+      "day": "Monday",
+      "start": "14:15",
+      "end": "16:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "CHEMISTRY LAB"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Chemistry I",
+      "lecturer": "Dr Ruth Omole",
+      "day": "Tuesday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "CB RM 9"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Chemistry I",
+      "lecturer": "Dr Ruth Omole",
+      "day": "Tuesday",
+      "start": "15:15",
+      "end": "16:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "STMB F2-01"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Chemistry I Practicals",
+      "lecturer": "Dr Ruth Omole",
+      "day": "Wednesday",
+      "start": "14:15",
+      "end": "16:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "Electronics & Machines Lab"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "CSE 2112": [
+    {
+      "title": "Object Oriented Programming",
+      "lecturer": "Nicholas Njiru",
+      "day": "Monday",
+      "start": "12:15",
+      "end": "13:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "328 705 796 101 64"
+    },
+    {
+      "title": "Object Oriented Programming",
+      "lecturer": "Nicholas Njiru",
+      "day": "Monday",
+      "start": "13:15",
+      "end": "14:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "327 156 727 744 827"
+    },
+    {
+      "title": "Object Oriented Programming",
+      "lecturer": "Nicholas Njiru",
+      "day": "Thursday",
+      "start": "10:15",
+      "end": "12:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "FG F1-04"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Object Oriented Programming",
+      "lecturer": "Nicholas Njiru",
+      "day": "Tuesday",
+      "start": "11:15",
+      "end": "13:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "STMB GF-02"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "CSE1101": [
+    {
+      "title": "Introduction to Computer Technology",
+      "lecturer": "K. Kibunja",
+      "day": "Monday",
+      "start": "12:15",
+      "end": "13:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "CB RM 8"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Introduction to Computer Technology",
+      "lecturer": "Kelvin Kibunja",
+      "day": "Thursday",
+      "start": "13:15",
+      "end": "15:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "FG GF-04"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Introduction to Computer Technology",
+      "lecturer": "Kelvin Kibunja",
+      "day": "Tuesday",
+      "start": "12:15",
+      "end": "14:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "FG GF-04"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Introduction to Computer Technology",
+      "lecturer": "K. Kibunja",
+      "day": "Wednesday",
+      "start": "10:15",
+      "end": "11:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [],
+      "meeting_id": null
+    }
+  ],
+  "EMT 2101": [
+    {
+      "title": "Engineering Mathematics I",
+      "lecturer": "John Osumba",
+      "day": "Monday",
+      "start": "13:15",
+      "end": "15:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "379 714 895 928 412"
+    },
+    {
+      "title": "Engineering Mathematics I",
+      "lecturer": "John Osumba",
+      "day": "Tuesday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "FG F1-04"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Engineering Mathematics I",
+      "lecturer": "John Osumba",
+      "day": "Tuesday",
+      "start": "14:15",
+      "end": "16:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "FG F1-04"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Engineering Mathematics I",
+      "lecturer": "John Osumba",
+      "day": "Wednesday",
+      "start": "15:15",
+      "end": "17:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "348 255 257 289 139"
+    }
+  ],
+  "EMT 3101": [
+    {
+      "title": "Engineering Mathematics III",
+      "lecturer": "Dr Titus Orwa",
+      "day": "Friday",
+      "start": "12:15",
+      "end": "14:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": false,
+      "venues": [
+        "FG GF-03"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Engineering Mathematics III",
+      "lecturer": "Dr Titus Orwa",
+      "day": "Tuesday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "368 610 123 296 947"
+    }
+  ],
+  "HED 1101": [
+    {
+      "title": "Philosophical Anthropology",
+      "lecturer": "P. Micheni",
+      "day": "Thursday",
+      "start": "16:15",
+      "end": "17:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "LIB Lib 1"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Philosophical Anthropology",
+      "lecturer": "P. Micheni",
+      "day": "Thursday",
+      "start": "16:15",
+      "end": "17:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "LIB Lib 1"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Philosophical Anthropology",
+      "lecturer": "Patrick Micheni",
+      "day": "Wednesday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "FG GF-04"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Philosophical Anthropology",
+      "lecturer": "Patrick Micheni",
+      "day": "Wednesday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "FG GF-04"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "HED 1102": [
+    {
+      "title": "Communication Skills I",
+      "lecturer": "Fred Waga",
+      "day": "Friday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "FG GF-04"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Communication Skills I",
+      "lecturer": "Fred Waga",
+      "day": "Friday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "FG GF-04"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Communication Skills I",
+      "lecturer": "Fred Waga",
+      "day": "Thursday",
+      "start": "11:15",
+      "end": "12:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "FG GF-03"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Communication Skills I",
+      "lecturer": "Fred Waga",
+      "day": "Thursday",
+      "start": "11:15",
+      "end": "12:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "FG GF-03"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "HED 2111": [
+    {
+      "title": "Principle of Ethics",
+      "lecturer": "Dr John Branya",
+      "day": "Friday",
+      "start": "12:15",
+      "end": "14:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "STMB F5-04"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Principles of Ethics",
+      "lecturer": "Dr John Branya",
+      "day": "Friday",
+      "start": "12:15",
+      "end": "14:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "STMB F5-04"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Principles of Ethics",
+      "lecturer": "Dr Branya",
+      "day": "Monday",
+      "start": "10:15",
+      "end": "11:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": null
+    },
+    {
+      "title": "Principles of Ethics",
+      "lecturer": "Dr Branya",
+      "day": "Monday",
+      "start": "10:15",
+      "end": "11:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": null
+    }
+  ],
+  "MAT 1101": [
+    {
+      "title": "Mathematics I",
+      "lecturer": "John Osumba",
+      "day": "Friday",
+      "start": "10:15",
+      "end": "12:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "FG F1-04"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Mathematics I",
+      "lecturer": "John Osumba",
+      "day": "Monday",
+      "start": "15:15",
+      "end": "17:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "STMB B-02"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Mathematics I",
+      "lecturer": "John Osumba",
+      "day": "Thursday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "STMB GF-02"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Mathematics I",
+      "lecturer": "John Osumba",
+      "day": "Thursday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "STMB GF-02"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Mathematics I",
+      "lecturer": "John Osumba",
+      "day": "Tuesday",
+      "start": "12:15",
+      "end": "14:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "STMB B-01"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "MAT 1102": [
+    {
+      "title": "Applied Mathematics I",
+      "lecturer": "Dr Titus Orwa",
+      "day": "Thursday",
+      "start": "12:15",
+      "end": "14:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "STMB B-01"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Applied Mathematics I",
+      "lecturer": "Dr Titus Orwa",
+      "day": "Tuesday",
+      "start": "10:15",
+      "end": "12:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "FG F1-04"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Applied Mathematics I",
+      "lecturer": "Dr Titus Orwa",
+      "day": "Wednesday",
+      "start": "10:15",
+      "end": "12:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "FG GF-04"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Applied Mathematics I",
+      "lecturer": "Dr Titus Orwa",
+      "day": "Wednesday",
+      "start": "12:15",
+      "end": "14:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "STMB B-01"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "MEC 3104": [
+    {
+      "title": "Fluid Theory",
+      "lecturer": "Prof. D. Mbui",
+      "day": "Monday",
+      "start": "15:15",
+      "end": "16:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "350 046 117 341 840"
+    },
+    {
+      "title": "Fluid Theory Practicals",
+      "lecturer": "Prof. Damaris Mbui",
+      "day": "Tuesday",
+      "start": "10:15",
+      "end": "12:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": false,
+      "venues": [
+        "SERC FORGE 2"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Fluid Theory",
+      "lecturer": "Prof. Damaris Mbui",
+      "day": "Wednesday",
+      "start": "12:15",
+      "end": "14:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": false,
+      "venues": [
+        "MSB 5"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "MEC 3105": [
+    {
+      "title": "Thermodynamics Meeting ID: 377 712 258 532 83\nPasscode: sX9Ya2h2",
+      "lecturer": "Prof. A Muumbo",
+      "day": "Friday",
+      "start": "08:15",
+      "end": "09:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": "377 712 258 532 83"
+    },
+    {
+      "title": "Thermodynamics Practicals",
+      "lecturer": "Prof. Alex Muumbo",
+      "day": "Thursday",
+      "start": "16:15",
+      "end": "18:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": false,
+      "venues": [
+        "ELECTRONICS & MACHINES LAB"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Thermodynamics",
+      "lecturer": "Prof. Alex Muumbo",
+      "day": "Tuesday",
+      "start": "13:15",
+      "end": "15:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": false,
+      "venues": [],
+      "meeting_id": null
+    }
+  ],
+  "MPU 1101": [
+    {
+      "title": "Maisha Program I",
+      "lecturer": "ARitho/R.Kimondo",
+      "day": "Tuesday",
+      "start": "16:15",
+      "end": "17:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "CB Rm 10",
+        "STMB F2-03"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Maisha Program I",
+      "lecturer": "Ruby Kimondo",
+      "day": "Tuesday",
+      "start": "16:15",
+      "end": "17:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "STMB F2-03"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Maisha Program I",
+      "lecturer": "A. Ritho",
+      "day": "Wednesday",
+      "start": "14:15",
+      "end": "15:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "STC SEM RM"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "MPU 2101": [
+    {
+      "title": "Maisha Program 3",
+      "lecturer": "A. Ritho",
+      "day": "Thursday",
+      "start": "09:15",
+      "end": "10:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": false,
+      "venues": [],
+      "meeting_id": null
+    },
+    {
+      "title": "Maisha Program 3",
+      "lecturer": "M. Ntoyai",
+      "day": "Tuesday",
+      "start": "16:15",
+      "end": "17:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "STC SEM RM"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Maisha Program 3",
+      "lecturer": "M. Ntoyai",
+      "day": "Tuesday",
+      "start": "16:15",
+      "end": "17:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "STC SEM RM"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "MPU 3101": [
+    {
+      "title": "Maisha 5",
+      "lecturer": "W. Ooro",
+      "day": "Thursday",
+      "start": "12:15",
+      "end": "13:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": false,
+      "venues": [
+        "CB Rm B"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Maisha 3",
+      "lecturer": "C. Garashie",
+      "day": "Wednesday",
+      "start": "10:15",
+      "end": "11:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": false,
+      "venues": [
+        "CB LANGUAGE LAB"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Maisha 5",
+      "lecturer": "W. Ooro",
+      "day": "Wednesday",
+      "start": "11:15",
+      "end": "12:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": false,
+      "venues": [
+        "STMB F5-05"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Maisha Program 3",
+      "lecturer": "A. Ritho",
+      "day": "Wednesday",
+      "start": "13:15",
+      "end": "14:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "CB Rm 5"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "MPU 4101": [
+    {
+      "title": "Maisha 3",
+      "lecturer": "Y. Karanja",
+      "day": "Friday",
+      "start": "10:15",
+      "end": "11:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": false,
+      "venues": [
+        "CB Rm 5"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Maisha 3",
+      "lecturer": "A. Ritho",
+      "day": "Thursday",
+      "start": "10:15",
+      "end": "11:15",
+      "group": "BSEEE YEAR 4",
+      "is_virtual": false,
+      "venues": [
+        "CB Rm 10"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "PHY 1101": [
+    {
+      "title": "Physics I",
+      "lecturer": "Dr Pamela Kilavi",
+      "day": "Friday",
+      "start": "11:15",
+      "end": "12:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "CB RM 8"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Physics I",
+      "lecturer": "Dr Pamela Kilavi",
+      "day": "Friday",
+      "start": "13:15",
+      "end": "14:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "MSB 5"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Physics I",
+      "lecturer": "Dr Pamela Kilavi",
+      "day": "Monday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "STMB F2-03"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Physics I",
+      "lecturer": "Dr Pamela Kilavi",
+      "day": "Monday",
+      "start": "12:15",
+      "end": "14:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "STMB B-01"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Physics I Practicals",
+      "lecturer": "Dr Pamela Kilavi",
+      "day": "Thursday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "YEAR 1 GROUP A",
+      "is_virtual": false,
+      "venues": [
+        "PHYSICS LAB"
+      ],
+      "meeting_id": null
+    },
+    {
+      "title": "Physics I Practicals",
+      "lecturer": "Dr Pamela Kilavi",
+      "day": "Wednesday",
+      "start": "15:15",
+      "end": "17:15",
+      "group": "YEAR 1 GROUP B",
+      "is_virtual": false,
+      "venues": [
+        "PHYSICS LAB"
+      ],
+      "meeting_id": null
+    }
+  ],
+  "UNCODED::BSEEE Elective": [
+    {
+      "title": "BSEEE Elective",
+      "lecturer": null,
+      "day": "Monday",
+      "start": "12:15",
+      "end": "13:15",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": null
+    }
+  ],
+  "UNCODED::BSEEE Elective Physical Class": [
+    {
+      "title": "BSEEE Elective Physical Class",
+      "lecturer": null,
+      "day": "Tuesday",
+      "start": "12:15",
+      "end": "14:15",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING",
+      "is_virtual": false,
+      "venues": [],
+      "meeting_id": null
+    }
+  ],
+  "UNCODED::BSEEE Elective Practical Class": [
+    {
+      "title": "BSEEE Elective Practical Class",
+      "lecturer": null,
+      "day": "Wednesday",
+      "start": "14:15",
+      "end": "16:15",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING",
+      "is_virtual": false,
+      "venues": [],
+      "meeting_id": null
+    }
+  ],
+  "UNCODED::BSEEE Specialization Physical Class": [
+    {
+      "title": "BSEEE Specialization Physical Class",
+      "lecturer": null,
+      "day": "Tuesday",
+      "start": "08:15",
+      "end": "10:15",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING",
+      "is_virtual": false,
+      "venues": [],
+      "meeting_id": null
+    }
+  ],
+  "UNCODED::BSEEE Specialization Practicals": [
+    {
+      "title": "BSEEE Specialization Practicals",
+      "lecturer": null,
+      "day": "Thursday",
+      "start": "14:15",
+      "end": "16:15",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING",
+      "is_virtual": false,
+      "venues": [],
+      "meeting_id": null
+    }
+  ],
+  "UNCODED::BSEEE Specialization Virtual": [
+    {
+      "title": "BSEEE Specialization Virtual",
+      "lecturer": null,
+      "day": "Monday",
+      "start": "09:15",
+      "end": "10:15",
+      "group": "BACHELOR OF ELECTRICAL & ELECTRONICS ENGINEERING",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": null
+    }
+  ],
+  "UNCODED::Humanity Elective I": [
+    {
+      "title": "Humanity Elective I",
+      "lecturer": null,
+      "day": "Monday",
+      "start": "15:15",
+      "end": "17:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": null
+    },
+    {
+      "title": "Humanity Elective I",
+      "lecturer": null,
+      "day": "Monday",
+      "start": "15:15",
+      "end": "17:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": null
+    }
+  ],
+  "UNCODED::Humanity Elective I Physical Class": [
+    {
+      "title": "Humanity Elective I Physical Class",
+      "lecturer": null,
+      "day": "Wednesday",
+      "start": "08:15",
+      "end": "12:15",
+      "group": "YEAR 2 GROUP A",
+      "is_virtual": false,
+      "venues": [],
+      "meeting_id": null
+    },
+    {
+      "title": "Humanity Elective I Physical Class",
+      "lecturer": null,
+      "day": "Wednesday",
+      "start": "08:15",
+      "end": "12:15",
+      "group": "YEAR 2 GROUP B",
+      "is_virtual": false,
+      "venues": [],
+      "meeting_id": null
+    }
+  ],
+  "UNCODED::Humanity Elective III": [
+    {
+      "title": "Humanity Elective III",
+      "lecturer": null,
+      "day": "Monday",
+      "start": "08:15",
+      "end": "12:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": false,
+      "venues": [],
+      "meeting_id": null
+    },
+    {
+      "title": "Humanity Elective III",
+      "lecturer": null,
+      "day": "Wednesday",
+      "start": "15:15",
+      "end": "17:15",
+      "group": "BSEEE YEAR 3",
+      "is_virtual": true,
+      "venues": [],
+      "meeting_id": null
+    }
+  ]
+}

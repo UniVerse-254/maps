@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800;900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap");
+@import "tailwindcss";
+
+/* 
+  1. Base CSS Variables for Light/Dark mode flipping.
+  Keeps the color variety intentionally minimal.
+*/
+:root {
+  --bg-base: #f3f4f6; /* The "map" canvas behind the UI */
+  --bg-panel: #ffffff; /* Floating sidebars, navs, and cards */
+  --text-primary: #111827;
+  --text-secondary: #6b7280;
+  --border-line: #e5e7eb;
+
+  /* Apple-style blue for active states, routes, and primary buttons */
+  --accent-route: #007aff;
+  --accent-route-soft: #e5f0ff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Deep shade of blue for dark mode base */
+    --bg-base: #0b1120;
+    --bg-panel: #131b2f;
+    --text-primary: #f9fafb;
+    --text-secondary: #9ca3af;
+    --border-line: #1e293b;
+
+    --accent-route: #0a84ff;
+    --accent-route-soft: #1a2942;
+  }
+}
+
+/* 
+  2. Tailwind v4 Theme Mapping 
+  Now you can use standard classes like `bg-panel`, `text-content`, `text-content-muted`, `bg-route`
+*/
+@theme {
+  --font-display: "Archivo", "Inter", sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --color-base: var(--bg-base);
+  --color-panel: var(--bg-panel);
+  --color-content: var(--text-primary);
+  --color-content-muted: var(--text-secondary);
+  --color-line: var(--border-line);
+  --color-route: var(--accent-route);
+  --color-route-soft: var(--accent-route-soft);
+}
+
+/* 3. Global Resets */
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-base);
+  color: var(--color-content);
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-mono {
+  font-family: var(--font-mono);
+}
+
+/* 
+  4. Dynamic Texture 
+  Uses the dynamic border color so the dots seamlessly adapt 
+  to both light and dark mode without hardcoding hex values.
+*/
+.bg-texture {
+  background-image: radial-gradient(
+    circle at 1px 1px,
+    var(--color-line) 1px,
+    transparent 0
+  );
+  background-size: 24px 24px; /* Slightly larger grid for a cleaner layout */
+}
+
+::selection {
+  background: var(--color-route-soft);
+  color: var(--color-route);
+}
+
+*:focus-visible {
+  outline: 2px solid var(--color-route);
+  outline-offset: 2px;
+}

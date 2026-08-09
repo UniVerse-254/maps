@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/pwa-192x192.png" />
+    <link rel="apple-touch-icon" href="/pwa-192x192.png" />
+
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#3F7A5C" />
+    <meta http-equiv="Permissions-Policy" content="storage-access=*" />
+
+    <title>Campus Link Maps | Navigate Your Campus</title>
+    <meta name="title" content="Campus Link Maps | Navigate Your Campus" />
+    <meta
+      name="description"
+      content="Find your way around campus. Search buildings, check real-time room schedules, and get step-by-step navigation to your next class."
+    />
+
+    <link rel="canonical" href="https://maps.campuslink.online" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://maps.campuslink.online/" />
+    <meta
+      property="og:title"
+      content="Campus Link Maps | Navigate Your Campus"
+    />
+    <meta
+      property="og:description"
+      content="Find your way around campus. Search buildings, check real-time room schedules, and get step-by-step navigation to your next class."
+    />
+    <meta
+      property="og:image"
+      content="https://maps.campuslink.online/og-image.jpg"
+    />
+
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://maps.campuslink.online/" />
+    <meta
+      property="twitter:title"
+      content="Campus Link Maps | Navigate Your Campus"
+    />
+    <meta
+      property="twitter:description"
+      content="Find your way around campus. Search buildings, check real-time room schedules, and get step-by-step navigation to your next class."
+    />
+    <meta
+      property="twitter:image"
+      content="https://maps.campuslink.online/og-image.jpg"
+    />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Campus Link Maps",
+        "operatingSystem": "Any",
+        "applicationCategory": "NavigationApplication",
+        "description": "The official campus map and room scheduling application. Instantly find your classes and check live room occupancy.",
+        "url": "https://maps.campuslink.online",
+        "image": "https://maps.campuslink.online/pwa-512x512.png",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KES"
+        }
+      }
+    </script>
+
+    <link rel="preconnect" href="https://appwrite.campuslink.online" />
+    <link rel="dns-prefetch" href="https://appwrite.campuslink.online" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

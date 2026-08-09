@@ -1,0 +1,37 @@
+{
+  "compilerOptions": {
+    // Environment Settings — bundler mode, not nodenext.
+    // Vite/esbuild resolves modules itself, so we don't need
+    // Node's strict extension rules that caused ts(2834).
+    "target": "ESNext",
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "jsx": "react-jsx",
+
+    // Path aliases — matches the alias set in vite.config.ts
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+
+    // Vite-specific
+    "allowImportingTsExtensions": false,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+    "verbatimModuleSyntax": true,
+    "skipLibCheck": true,
+
+    // Emit — Vite handles the actual build, tsc is just for type-checking
+    "noEmit": true,
+
+    // Stricter Typechecking
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+
+    "types": []
+  },
+  "include": ["src"]
+}
