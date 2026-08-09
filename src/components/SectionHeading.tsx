@@ -20,10 +20,6 @@ export default function SectionHeading({
         </h2>
       </div>
 
-      {/* 
-        If an action (like a "See All" button) is passed, 
-        it will sit perfectly aligned to the baseline of the title 
-      */}
       {action && <div className="mb-1">{action}</div>}
     </div>
   );

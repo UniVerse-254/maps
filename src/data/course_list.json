@@ -1,0 +1,190 @@
+[
+  {
+    "code": "BEE 2101",
+    "title": "Circuit Theory II"
+  },
+  {
+    "code": "BEE 2102",
+    "title": "Physical Electronics"
+  },
+  {
+    "code": "BEE 2103",
+    "title": "Engineering Drawing and Computer Aided Design"
+  },
+  {
+    "code": "BEE 2104",
+    "title": "Engineering Drawing and Computer Aided Design"
+  },
+  {
+    "code": "BEE 3101",
+    "title": "Electromagnetic Fields"
+  },
+  {
+    "code": "BEE 3102",
+    "title": "Digital Electronics II"
+  },
+  {
+    "code": "BEE 3106",
+    "title": "Analogue Electronics I"
+  },
+  {
+    "code": "BEE 4101",
+    "title": "Power Electronics"
+  },
+  {
+    "code": "BEE 4102",
+    "title": "Control Systems II"
+  },
+  {
+    "code": "BEE 4103",
+    "title": "Power System Engineering I"
+  },
+  {
+    "code": "BEE 4104",
+    "title": "Technology Ethics & Human Rights"
+  },
+  {
+    "code": "BEE 4105",
+    "title": "Communication Systems I"
+  },
+  {
+    "code": "BEE 4106",
+    "title": "Fundamental Accounting Principles"
+  },
+  {
+    "code": "BEE 4107",
+    "title": "Electrical Machines & Drives I"
+  },
+  {
+    "code": "BEE 5101",
+    "title": "Electrical Engineering Project I"
+  },
+  {
+    "code": "BEE 5102",
+    "title": "Embedded Systems & IoT"
+  },
+  {
+    "code": "BEE 5103",
+    "title": "Engineering Project Management"
+  },
+  {
+    "code": "CHE 1101",
+    "title": "Chemistry I"
+  },
+  {
+    "code": "CSE 2112",
+    "title": "Object Oriented Programming"
+  },
+  {
+    "code": "CSE1101",
+    "title": "Introduction to Computer Technology"
+  },
+  {
+    "code": "EMT 2101",
+    "title": "Engineering Mathematics I"
+  },
+  {
+    "code": "EMT 3101",
+    "title": "Engineering Mathematics III"
+  },
+  {
+    "code": "HED 1101",
+    "title": "Philosophical Anthropology"
+  },
+  {
+    "code": "HED 1102",
+    "title": "Communication Skills I"
+  },
+  {
+    "code": "HED 2111",
+    "title": "Principles of Ethics"
+  },
+  {
+    "code": "MAT 1101",
+    "title": "Mathematics I"
+  },
+  {
+    "code": "MAT 1102",
+    "title": "Applied Mathematics I"
+  },
+  {
+    "code": "MEC 3104",
+    "title": "Fluid Theory"
+  },
+  {
+    "code": "MEC 3105",
+    "title": "Thermodynamics"
+  },
+  {
+    "code": "MPU 1101 (Gents)",
+    "title": "Maisha Program I"
+  },
+  {
+    "code": "MPU 1101 (Ladies)",
+    "title": "Maisha Program I"
+  },
+  {
+    "code": "MPU 2101 (Gents)",
+    "title": "Maisha Program 3"
+  },
+  {
+    "code": "MPU 2101 (Ladies)",
+    "title": "Maisha Program 3"
+  },
+  {
+    "code": "MPU 3101 (Gents)",
+    "title": "Maisha Program 3"
+  },
+  {
+    "code": "MPU 3101 (Ladies)",
+    "title": "Maisha 3"
+  },
+  {
+    "code": "MPU 4101 (Gents)",
+    "title": "Maisha 3"
+  },
+  {
+    "code": "MPU 4101 (Ladies)",
+    "title": "Maisha 3"
+  },
+  {
+    "code": "PHY 1101",
+    "title": "Physics I"
+  },
+  {
+    "code": "UNCODED::BSEEE Elective",
+    "title": "BSEEE Elective"
+  },
+  {
+    "code": "UNCODED::BSEEE Elective Physical Class",
+    "title": "BSEEE Elective Physical Class"
+  },
+  {
+    "code": "UNCODED::BSEEE Elective Practical Class",
+    "title": "BSEEE Elective Practical Class"
+  },
+  {
+    "code": "UNCODED::BSEEE Specialization Physical Class",
+    "title": "BSEEE Specialization Physical Class"
+  },
+  {
+    "code": "UNCODED::BSEEE Specialization Practicals",
+    "title": "BSEEE Specialization Practicals"
+  },
+  {
+    "code": "UNCODED::BSEEE Specialization Virtual",
+    "title": "BSEEE Specialization Virtual"
+  },
+  {
+    "code": "UNCODED::Humanity Elective I",
+    "title": "Humanity Elective I"
+  },
+  {
+    "code": "UNCODED::Humanity Elective I Physical Class",
+    "title": "Humanity Elective I Physical Class"
+  },
+  {
+    "code": "UNCODED::Humanity Elective III",
+    "title": "Humanity Elective III"
+  }
+]

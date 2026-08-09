@@ -22,7 +22,9 @@ export default function BuildingPage() {
   // Group rooms by floor
   const roomsByFloor = building?.floors.map((floor) => ({
     floor,
-    rooms: rooms.filter((r) => r.building === building.id && r.floor === floor),
+    rooms: rooms.filter(
+      (r) => r.buildingId === building.id && r.floor === floor,
+    ),
   }));
 
   return (

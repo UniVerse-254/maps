@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import { Home, Search, DoorOpen, User } from "lucide-react";
 
-// We add a 'path' property to map the UI tab to the actual router URL
 const TABS = [
   { id: "home", path: "/", label: "Home", icon: Home },
   { id: "search", path: "/search", label: "Search", icon: Search },
@@ -30,7 +29,6 @@ export default function BottomNav({ active }: { active: string }) {
               >
                 <Icon
                   className="h-6 w-6 transition-all duration-200"
-                  // Apple standard: active icons have a slightly heavier visual weight
                   strokeWidth={isActive ? 2.5 : 2}
                 />
                 <span

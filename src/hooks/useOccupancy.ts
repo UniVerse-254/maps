@@ -50,9 +50,9 @@ export function useOccupancy(roomId: string | undefined): OccupancySlot[] {
     ];
     const currentDay = days[now.getDay()];
 
-    // For testing/development, you can force a day and time here:
-    // const currentDay = "Monday";
-    // const currentMinutes = timeToMinutes("09:00");
+    // edge case testing....
+    // Or just testing
+    // Set the day here
     const currentMinutes = now.getHours() * 60 + now.getMinutes();
 
     // Get all sessions for this room on the CURRENT day, sorted by start time

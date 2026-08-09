@@ -2,13 +2,8 @@ import { ChevronRight } from "lucide-react";
 import type { PhaseId } from "@/types";
 import { phases } from "@/data/phases";
 
-/**
- * SignagePlate — Modernized Apple-style campus directory card.
- * Features a dynamic background, smooth iOS-style tap states,
- * a colored phase stripe, and clean typography.
- */
 export default function SignagePlate({
-  phase = "phase1", // Updated prop name to match mock data
+  phase = "phase1",
   code,
   label,
   sub,
@@ -37,14 +32,12 @@ export default function SignagePlate({
   return (
     <Comp
       onClick={onClick}
-      // Replaced harsh shadows and translation with an iOS 'squish' scale effect
       className={`group relative flex w-full items-center gap-4 overflow-hidden rounded-2xl border border-line/60 bg-panel text-left text-content shadow-sm transition-all duration-200 ${
         onClick
           ? "cursor-pointer hover:border-line hover:shadow-md active:scale-[0.98]"
           : ""
       } ${sizes.pad}`}
     >
-      {/* The colored phase stripe, now with rounded top/bottom left corners */}
       <span
         className="absolute left-0 top-0 h-full w-1.5 rounded-l-2xl"
         style={{ backgroundColor: phaseColor }}
@@ -60,7 +53,6 @@ export default function SignagePlate({
             {label}
           </div>
           {sub && (
-            // Dropped the monospace uppercase for a cleaner, native subtitle look
             <div
               className={`truncate font-body font-medium text-content-muted mt-0.5 ${sizes.label}`}
             >
@@ -72,7 +64,6 @@ export default function SignagePlate({
 
       {arrow && (
         <ChevronRight
-          // Apple standard uses Chevrons instead of Arrows for navigation
           className="h-5 w-5 shrink-0 text-content-muted/50 transition-transform group-hover:translate-x-0.5"
           strokeWidth={2.5}
         />

@@ -31,7 +31,7 @@ export default function RoomPage() {
   const [expandedDay, setExpandedDay] = useState<string | null>(null);
 
   const room = rooms.find((r) => r.id === roomId) ?? rooms[0];
-  const building = buildings.find((b) => b.id === room?.building);
+  const building = buildings.find((b) => b.id === room?.buildingId);
 
   const upcomingData = useOccupancy(room?.id);
   const weekData = useWeekSchedule(room?.id);

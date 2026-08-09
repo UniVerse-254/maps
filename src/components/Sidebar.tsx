@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom";
-import { Home, Search, DoorOpen, User, Map } from "lucide-react";
+import { Home, Search, DoorOpen, User, ArrowUpRight } from "lucide-react";
+import { GithubIcon } from "./ui/github";
 
 const NAV_ITEMS = [
   { id: "home", path: "/", label: "Home", icon: Home },
@@ -17,17 +18,26 @@ export default function Sidebar() {
   return (
     <div className="flex h-full w-full flex-col p-4">
       {/* App Branding / Logo area */}
-      <div className="mb-8 flex items-center gap-3 px-3 pt-2">
-        <div className="flex h-8 w-8 items-center justify-center rounded-xl bg-route text-white shadow-sm">
-          <Map className="h-5 w-5" strokeWidth={2.5} />
+      <div className="mb-10 flex items-center gap-3 px-3 pt-2">
+        <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-panel shadow-sm border border-line/60">
+          <img
+            src="/logo.svg"
+            alt="CampusLink Logo"
+            className="h-6 w-6 object-contain"
+          />
         </div>
-        <span className="font-display text-lg font-bold tracking-tight text-content">
-          Campus Map
-        </span>
+        <div className="flex flex-col justify-center">
+          <span className="font-display text-lg font-bold tracking-tight text-content leading-none mb-1">
+            CampusLink
+          </span>
+          <span className="text-[11px] font-bold uppercase tracking-widest text-route leading-none">
+            Maps
+          </span>
+        </div>
       </div>
 
       {/* Navigation Menu */}
-      <nav className="flex-1 space-y-1.5">
+      <nav className="flex-1 space-y-2">
         {NAV_ITEMS.map((item) => (
           <NavLink
             key={item.id}
@@ -35,9 +45,9 @@ export default function Sidebar() {
             // 'end' ensures the Home ('/') route doesn't stay active when on '/search'
             end={item.path === "/"}
             className={({ isActive }) =>
-              `group flex items-center gap-3 rounded-xl px-3 py-2.5 transition-all duration-200 active:scale-[0.98] ${
+              `group flex items-center gap-3.5 rounded-xl px-4 py-3.5 transition-all duration-200 active:scale-[0.98] ${
                 isActive
-                  ? "bg-route text-white shadow-sm"
+                  ? "bg-route text-white shadow-md shadow-route/20"
                   : "text-content-muted hover:bg-line/40 hover:text-content"
               }`
             }
@@ -64,9 +74,37 @@ export default function Sidebar() {
         ))}
       </nav>
 
-      {/* Optional Footer Space (for versioning or settings) */}
-      <div className="mt-auto px-3 pb-2 text-[11px] font-medium uppercase tracking-wider text-content-muted/50">
-        University Directory
+      {/* Footer Ecosystem & Open Source Links */}
+      <div className="mt-auto flex flex-col gap-4">
+        <a
+          href="https://campuslink.online"
+          className="group flex items-center justify-between rounded-xl border border-line/60 bg-panel px-4 py-3.5 shadow-sm transition-all hover:border-route hover:shadow-md active:scale-[0.98]"
+        >
+          <div className="flex flex-col">
+            <span className="text-[13px] font-bold text-content">
+              Food & Utilities
+            </span>
+            <span className="text-[11px] font-medium text-content-muted mt-0.5">
+              Return to main app
+            </span>
+          </div>
+          <ArrowUpRight className="h-4 w-4 text-content-muted transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5 group-hover:text-route" />
+        </a>
+
+        <div className="flex items-center justify-between px-1 text-[11px] font-medium text-content-muted">
+          <span>v0.0.1-alpha</span>
+
+          <a
+            href="https://github.com/UniVerse-254/maps"
+            target="_blank"
+            rel="noreferrer"
+            className="flex items-center gap-1.5 transition-colors hover:text-content"
+            title="Contribute on GitHub"
+          >
+            <GithubIcon className="h-3.5 w-3.5" />
+            <span>Contribute</span>
+          </a>
+        </div>
       </div>
     </div>
   );

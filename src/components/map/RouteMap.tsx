@@ -16,10 +16,6 @@ import { buildings } from "@/data/buildings";
 import { routingGraph } from "@/data/routing";
 import { findShortestPath } from "@/utils/pathfinding";
 
-// -----------------------------------------------------------------------------
-// Marker icons
-// -----------------------------------------------------------------------------
-
 function makeDotIcon(color: string, ringColor: string) {
   return L.divIcon({
     className: "",
@@ -39,10 +35,6 @@ function makeDotIcon(color: string, ringColor: string) {
 
 const startIcon = makeDotIcon("#B8452F", "#ffffff");
 const destinationIcon = makeDotIcon("#E8A33D", "#14213D");
-
-// -----------------------------------------------------------------------------
-// Helpers
-// -----------------------------------------------------------------------------
 
 function haversineMeters(a: Coordinates, b: Coordinates): number {
   const R = 6371000;
@@ -327,9 +319,6 @@ export default function RouteMap({
               </Polygon>
             ))}
 
-          {/* -------------------------------------------------------------
-              DEBUG: Render Graph Edges (Connections)
-              ------------------------------------------------------------- */}
           {graphEdges.length > 0 && (
             <Polyline
               positions={graphEdges}

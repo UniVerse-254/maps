@@ -1,8 +1,28 @@
 import { useGetMeQuery } from "@/lib/auth.query";
+import { useQueryClient } from "@tanstack/react-query";
 import type { ReactNode } from "react";
 
+const IS_DEV = import.meta.env.DEV;
+
+const DUMMY_USER = {
+  id: "ghost",
+  name: "Ghost Hunter",
+  email: "ghost.hunter@strathmore.edu",
+  role: "student",
+};
+
 export default function AuthGuard({ children }: { children: ReactNode }) {
+  const queryClient = useQueryClient();
+
+  if (IS_DEV) {
+    queryClient.setQueryData(["me"], DUMMY_USER);
+  }
+
   const { data: user, isLoading, isError } = useGetMeQuery();
+
+  if (IS_DEV) {
+    return <>{children}</>;
+  }
 
   if (isLoading) {
     return (
@@ -15,12 +35,9 @@ export default function AuthGuard({ children }: { children: ReactNode }) {
     );
   }
 
-  // If there's an error (like a 401), the Axios interceptor takes over
-  // and redirects the window to campuslink.online. We return null to prevent flashes.
   if (isError || !user) {
     return null;
   }
 
-  // User is authenticated, render the main app layout
   return <>{children}</>;
 }

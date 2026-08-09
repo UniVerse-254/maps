@@ -20,7 +20,6 @@ export default function SearchBar({
         value={value}
         onChange={(e) => onChange(e.target.value)}
         placeholder={placeholder}
-        // text-[17px] prevents iOS from auto-zooming the page when focused
         className="w-full bg-transparent font-body text-[17px] text-content placeholder:text-content-muted focus:outline-none"
       />
 
@@ -28,7 +27,6 @@ export default function SearchBar({
         <button
           onClick={() => onChange("")}
           aria-label="Clear search"
-          // Apple's signature clear button style: a subtle muted circle with a bold X
           className="shrink-0 rounded-full bg-line/60 p-1 text-content-muted transition-colors hover:bg-line hover:text-content active:scale-95"
         >
           <X className="h-3.5 w-3.5" strokeWidth={3} />

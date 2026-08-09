@@ -85,7 +85,7 @@ export default function SearchPage() {
 
           <div className="space-y-3">
             {filteredRooms.map((r) => {
-              const building = buildings.find((b) => b.id === r.building);
+              const building = buildings.find((b) => b.id === r.buildingId);
               return (
                 <button
                   key={r.id}

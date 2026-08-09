@@ -17,7 +17,6 @@ export default function TopBar({
         <button
           onClick={onBack}
           aria-label="Go back"
-          // Native iOS back buttons are borderless, accent-colored, with a simple opacity fade on tap
           className="-ml-2 flex h-9 shrink-0 items-center justify-center text-route transition-opacity active:opacity-50"
         >
           <ChevronLeft className="h-7 w-7" strokeWidth={2.5} />
@@ -30,7 +29,6 @@ export default function TopBar({
 
       <div className="min-w-0 flex-1 flex flex-col justify-center">
         {eyebrow && (
-          // Dropped uppercase monospace for a standard native sub-label
           <div className="text-[12px] font-medium text-content-muted leading-tight mb-0.5">
             {eyebrow}
           </div>
@@ -43,7 +41,6 @@ export default function TopBar({
       {right ?? (
         <button
           aria-label="Notifications"
-          // Apple's secondary action buttons use a soft translucent background instead of a hard outline
           className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-line/40 text-content transition-colors hover:bg-line/60 active:scale-95"
         >
           <Bell className="h-5 w-5" strokeWidth={2} />

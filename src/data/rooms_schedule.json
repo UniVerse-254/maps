@@ -4,7 +4,7 @@
       "day": "Wednesday",
       "start": "10:15",
       "end": "11:15",
-      "course_code": "MPU 3101",
+      "course_code": "MPU 3101 (Ladies)",
       "course_title": "Maisha 3",
       "lecturer": "C. Garashie",
       "group": "BSEEE YEAR 3"
@@ -88,7 +88,7 @@
       "day": "Thursday",
       "start": "10:15",
       "end": "11:15",
-      "course_code": "MPU 4101",
+      "course_code": "MPU 4101 (Gents)",
       "course_title": "Maisha 3",
       "lecturer": "A. Ritho",
       "group": "BSEEE YEAR 4"
@@ -97,7 +97,7 @@
       "day": "Tuesday",
       "start": "16:15",
       "end": "17:15",
-      "course_code": "MPU 1101",
+      "course_code": "MPU 1101 (Gents)",
       "course_title": "Maisha Program I",
       "lecturer": "ARitho/R.Kimondo",
       "group": "YEAR 1 GROUP A"
@@ -128,7 +128,7 @@
       "day": "Friday",
       "start": "10:15",
       "end": "11:15",
-      "course_code": "MPU 4101",
+      "course_code": "MPU 4101 (Ladies)",
       "course_title": "Maisha 3",
       "lecturer": "Y. Karanja",
       "group": "BSEEE YEAR 4"
@@ -137,7 +137,7 @@
       "day": "Wednesday",
       "start": "13:15",
       "end": "14:15",
-      "course_code": "MPU 3101",
+      "course_code": "MPU 3101 (Gents)",
       "course_title": "Maisha Program 3",
       "lecturer": "A. Ritho",
       "group": "YEAR 2 GROUP B"
@@ -148,7 +148,7 @@
       "day": "Thursday",
       "start": "12:15",
       "end": "13:15",
-      "course_code": "MPU 3101",
+      "course_code": "MPU 3101 (Gents)",
       "course_title": "Maisha 5",
       "lecturer": "W. Ooro",
       "group": "BSEEE YEAR 3"
@@ -610,7 +610,7 @@
       "day": "Tuesday",
       "start": "16:15",
       "end": "17:15",
-      "course_code": "MPU 2101",
+      "course_code": "MPU 2101 (Ladies)",
       "course_title": "Maisha Program 3",
       "lecturer": "M. Ntoyai",
       "group": "YEAR 2 GROUP A"
@@ -619,7 +619,7 @@
       "day": "Tuesday",
       "start": "16:15",
       "end": "17:15",
-      "course_code": "MPU 2101",
+      "course_code": "MPU 2101 (Ladies)",
       "course_title": "Maisha Program 3",
       "lecturer": "M. Ntoyai",
       "group": "YEAR 2 GROUP B"
@@ -628,7 +628,7 @@
       "day": "Wednesday",
       "start": "14:15",
       "end": "15:15",
-      "course_code": "MPU 1101",
+      "course_code": "MPU 1101 (Gents)",
       "course_title": "Maisha Program I",
       "lecturer": "A. Ritho",
       "group": "YEAR 1 GROUP B"
@@ -766,7 +766,7 @@
       "day": "Tuesday",
       "start": "16:15",
       "end": "17:15",
-      "course_code": "MPU 1101",
+      "course_code": "MPU 1101 (Ladies)",
       "course_title": "Maisha Program I",
       "lecturer": "ARitho/R.Kimondo",
       "group": "YEAR 1 GROUP A"
@@ -775,7 +775,7 @@
       "day": "Tuesday",
       "start": "16:15",
       "end": "17:15",
-      "course_code": "MPU 1101",
+      "course_code": "MPU 1101 (Ladies)",
       "course_title": "Maisha Program I",
       "lecturer": "Ruby Kimondo",
       "group": "YEAR 1 GROUP B"
@@ -815,7 +815,7 @@
       "day": "Wednesday",
       "start": "11:15",
       "end": "12:15",
-      "course_code": "MPU 3101",
+      "course_code": "MPU 3101 (Gents)",
       "course_title": "Maisha 5",
       "lecturer": "W. Ooro",
       "group": "BSEEE YEAR 3"

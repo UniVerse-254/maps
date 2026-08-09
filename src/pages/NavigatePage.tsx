@@ -19,7 +19,7 @@ export default function NavigatePage() {
   // Look up the destination
   const room = rooms.find((r) => r.id === targetId);
   const building =
-    buildings.find((b) => b.id === (room?.building ?? targetId)) ??
+    buildings.find((b) => b.id === (room?.buildingId ?? targetId)) ??
     buildings[0];
 
   if (!building) {
