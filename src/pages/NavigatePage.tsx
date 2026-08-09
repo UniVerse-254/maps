@@ -59,11 +59,7 @@ export default function NavigatePage() {
 
       <div className="space-y-6 px-4 py-6">
         {/* Live route map — replaces the old static SVG illustration */}
-        <RouteMap
-          destination={building}
-          campusBoundary={campusBoundary}
-          start={{ lat: -1.310471249091984, lng: 36.8140122605563 }} // Oval Building — dev-only stand-in for "already on campus"
-        />
+        <RouteMap destination={building} campusBoundary={campusBoundary} />
 
         {/* Step list */}
         <section className="space-y-3">
