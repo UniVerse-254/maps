@@ -8,6 +8,7 @@ import NavigatePage from "./pages/NavigatePage";
 import AvailableRoomsPage from "./pages/AvailableRoomsPage";
 import ProfilePage from "./pages/ProfilePage";
 import AuthGuard from "./layouts/AuthGuard";
+import RouteErrorBoundary from "./components/RouteErrorBoundary";
 
 const router = createBrowserRouter([
   {
@@ -17,6 +18,7 @@ const router = createBrowserRouter([
         <AppLayout />
       </AuthGuard>
     ),
+    errorElement: <RouteErrorBoundary />,
     children: [
       {
         index: true,
